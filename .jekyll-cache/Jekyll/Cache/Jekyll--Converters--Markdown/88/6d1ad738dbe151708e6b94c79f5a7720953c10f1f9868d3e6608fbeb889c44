@@ -1,8 +1,0 @@
-I"<h1 id="aa">Aa</h1>
-
-<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">title</span><span class="pi">:</span> <span class="s">Aa</span>
-<span class="na">nav_order</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Aa"</span>
-<span class="na">parent</span><span class="pi">:</span> <span class="s">Strings</span>
-<span class="na">grand_parent</span><span class="pi">:</span> <span class="s">Tests for order</span>
-</code></pre></div></div>
-:ET

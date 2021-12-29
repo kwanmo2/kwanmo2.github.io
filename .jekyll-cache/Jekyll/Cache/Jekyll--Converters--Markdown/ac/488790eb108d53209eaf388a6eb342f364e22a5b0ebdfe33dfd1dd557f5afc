@@ -1,9 +1,0 @@
-I"ì<h1 id="c">C</h1>
-
-<p>A child of page A, and parent of page D</p>
-
-<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">title</span><span class="pi">:</span> <span class="s">Tests for disambiguation C</span>
-<span class="na">parent</span><span class="pi">:</span> <span class="s">Tests for disambiguation A</span>
-<span class="na">has_children</span><span class="pi">:</span> <span class="no">true</span>
-</code></pre></div></div>
-:ET

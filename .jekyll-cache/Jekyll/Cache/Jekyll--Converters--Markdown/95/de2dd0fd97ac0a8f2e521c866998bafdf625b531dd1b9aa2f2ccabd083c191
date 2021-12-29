@@ -1,7 +1,0 @@
-I"Í<h1 id="tests-for-exclusion-untitled-and-excluded">Tests for exclusion untitled and excluded</h1>
-
-<p>This page does not have a <code class="language-plaintext highlighter-rouge">title</code>, and it is explicitly excluded from the navigation</p>
-
-<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">nav_exclude</span><span class="pi">:</span> <span class="no">true</span>
-</code></pre></div></div>
-:ET
