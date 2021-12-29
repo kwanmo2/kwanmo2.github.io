@@ -1,0 +1,9 @@
+I"ð<h1 id="d">D</h1>
+
+<p>A grandchild of page A</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">title</span><span class="pi">:</span> <span class="s">Tests for disambiguation D</span>
+<span class="na">parent</span><span class="pi">:</span> <span class="s">Tests for disambiguation C</span>
+<span class="na">grand_parent</span><span class="pi">:</span> <span class="s">Tests for disambiguation A</span>
+</code></pre></div></div>
+:ET

@@ -1,0 +1,117 @@
+I"L<h1 id="unordered-lists">Unordered lists</h1>
+
+<p>The first child element of each <code class="language-plaintext highlighter-rouge">li</code> element in a <code class="language-plaintext highlighter-rouge">ul</code> list should be aligned with the preceding bullet in the following examples.</p>
+
+<ul>
+  <li>
+    <p>paragraph text</p>
+
+    <p>paragraph text</p>
+  </li>
+  <li>
+    <h3 id="header">Header</h3>
+
+    <p>paragraph text</p>
+  </li>
+  <li>
+    <blockquote>
+      <p>block quote</p>
+    </blockquote>
+
+    <p>paragraph text</p>
+  </li>
+  <li>
+    <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>fenced code block
+</code></pre></div>    </div>
+
+    <p>paragraph text</p>
+  </li>
+  <li>
+    <ul>
+      <li>unordered list item</li>
+      <li>unordered list item</li>
+    </ul>
+
+    <p>paragraph text</p>
+  </li>
+  <li>
+    <ol>
+      <li>ordered list item</li>
+      <li>ordered list item</li>
+    </ol>
+
+    <p>paragraph text</p>
+  </li>
+  <li>
+    <dl>
+      <dt>term</dt>
+      <dd>description</dd>
+      <dt>term</dt>
+      <dd>description</dd>
+    </dl>
+
+    <p>paragraph text</p>
+  </li>
+  <li>
+    <table>
+      <thead>
+        <tr>
+          <th>Default aligned</th>
+          <th style="text-align: left">Left aligned</th>
+          <th style="text-align: center">Center aligned</th>
+          <th style="text-align: right">Right aligned</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>First body part</td>
+          <td style="text-align: left">Second cell</td>
+          <td style="text-align: center">Third cell</td>
+          <td style="text-align: right">fourth cell</td>
+        </tr>
+        <tr>
+          <td>Second line</td>
+          <td style="text-align: left">foo</td>
+          <td style="text-align: center"><strong>strong</strong></td>
+          <td style="text-align: right">baz</td>
+        </tr>
+        <tr>
+          <td>Third line</td>
+          <td style="text-align: left">quux</td>
+          <td style="text-align: center">baz</td>
+          <td style="text-align: right">bar</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>Second body</td>
+          <td style="text-align: left"> </td>
+          <td style="text-align: center"> </td>
+          <td style="text-align: right"> </td>
+        </tr>
+        <tr>
+          <td>2 line</td>
+          <td style="text-align: left"> </td>
+          <td style="text-align: center"> </td>
+          <td style="text-align: right"> </td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td>Footer row</td>
+          <td style="text-align: left"> </td>
+          <td style="text-align: center"> </td>
+          <td style="text-align: right"> </td>
+        </tr>
+      </tfoot>
+    </table>
+
+    <p>paragraph text</p>
+  </li>
+  <li>
+    <hr />
+
+    <p>paragraph text</p>
+  </li>
+</ul>
+:ET
