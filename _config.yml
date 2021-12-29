@@ -30,7 +30,7 @@ twitter_username: kwanmo2
 github_username:  kwanmo2
 
 # Build settings
-theme: "just-the-docs"
+#theme: "just-the-docs"
 plugins:
   - jekyll-feed
 
