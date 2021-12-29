@@ -1,0 +1,12 @@
+I"Ò<h1 id="order">Order</h1>
+
+<p>The value of <code class="language-plaintext highlighter-rouge">nav_order</code> can be numbers (integers, floats) and/or strings. The following tests illustrate their effects.</p>
+
+<ul>
+  <li><a href="default/">Default</a>, using <code class="language-plaintext highlighter-rouge">title</code> instead of <code class="language-plaintext highlighter-rouge">nav_order</code> fields.</li>
+  <li><a href="strings/">Strings</a>, lexicographically ordered, possibly case-insensitively.</li>
+  <li><a href="integers/">Integers</a>, numerically ordered.</li>
+  <li><a href="floats/">Floats</a>, numerically ordered.</li>
+  <li><a href="mixture/">Mixture</a>, with numbers before strings.</li>
+</ul>
+:ET

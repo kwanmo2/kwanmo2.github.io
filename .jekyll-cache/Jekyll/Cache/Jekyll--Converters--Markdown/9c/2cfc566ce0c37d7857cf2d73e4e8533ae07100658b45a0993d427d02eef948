@@ -1,0 +1,9 @@
+I"ì<h1 id="tests-for-exclusion-010">Tests for exclusion 010</h1>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">title</span><span class="pi">:</span> <span class="s">Tests for exclusion </span><span class="m">010</span>
+<span class="na">parent</span><span class="pi">:</span> <span class="s">Tests for exclusion </span><span class="m">01</span>
+<span class="na">grand_parent</span><span class="pi">:</span> <span class="s">Tests for exclusion </span><span class="m">0</span>
+<span class="na">has_children</span><span class="pi">:</span> <span class="no">false</span>
+<span class="na">nav_exclude</span><span class="pi">:</span> <span class="no">true</span>
+</code></pre></div></div>
+:ET

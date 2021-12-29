@@ -1,0 +1,14 @@
+I"i<h1 id="tests">Tests</h1>
+
+<p>The main documentation pages of this theme illustrate the use of many of its features, which to some extent tests their implementation. The pages linked below provide further test cases for particular features, and may be useful for regression testing when developing new features.</p>
+
+<p>The default configuration does not include the test pages. To include them, <em>commment-out</em> the following line in <code class="language-plaintext highlighter-rouge">_config.yml</code>:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="err">,</span> <span class="s2">"</span><span class="s">docs/tests/"</span>
+</code></pre></div></div>
+<p>so that it is:</p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># , "docs/tests/"</span>
+</code></pre></div></div>
+
+<p>(Apparently Jekyll’s <code class="language-plaintext highlighter-rouge">include</code> does <em>not</em> override <code class="language-plaintext highlighter-rouge">exclude</code>  for the same folder…)</p>
+:ET

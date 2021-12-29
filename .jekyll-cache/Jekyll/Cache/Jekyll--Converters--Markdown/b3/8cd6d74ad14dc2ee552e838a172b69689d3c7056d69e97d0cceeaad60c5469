@@ -1,0 +1,10 @@
+I"O<h1 id="disambiguation">Disambiguation</h1>
+
+<p>When different pages with children have the same title, referencing the relevant grandparent in the children disambiguates which page is intended.</p>
+
+<ul>
+  <li><a href="a/">Page A</a> has a child <a href="ca/">page with title C</a>, and a grandchild <a href="dca/">page with title D</a>.</li>
+  <li><a href="b/">Page B</a> has a child <a href="cb/">page with title C</a>, and a grandchild <a href="dcb/">page with title D</a>.</li>
+  <li>The grandchild pages specify their parent and grandparent pages, so there is no ambiguity.</li>
+</ul>
+:ET
