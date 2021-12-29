@@ -1,6 +1,0 @@
-I"Y<h1 id="floating-point-order">Floating-Point Order</h1>
-
-<p>When <code class="language-plaintext highlighter-rouge">nav_order</code> fields are floating-point numbers, the pages are ordered in increasing order of the numerical values.</p>
-
-<p>Floats include <code class="language-plaintext highlighter-rouge">0.0</code> and negative values.</p>
-:ET

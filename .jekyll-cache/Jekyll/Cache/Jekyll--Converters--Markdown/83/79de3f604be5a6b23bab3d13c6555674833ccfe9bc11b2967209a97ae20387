@@ -1,6 +1,0 @@
-I"I<h1 id="string-order">String Order</h1>
-
-<p>By default, all Capital letters come before all lowercase letters; you can add <code class="language-plaintext highlighter-rouge">nav_sort: case_insensitive</code> in the configuration file to ignore the case).</p>
-
-<p>Digits precede letters, and numeric titles are ordered lexicographically: <code class="language-plaintext highlighter-rouge">"10"</code> precedes <code class="language-plaintext highlighter-rouge">"2"</code> (in contrast to explicit numeric <code class="language-plaintext highlighter-rouge">nav_order</code> values).</p>
-:ET

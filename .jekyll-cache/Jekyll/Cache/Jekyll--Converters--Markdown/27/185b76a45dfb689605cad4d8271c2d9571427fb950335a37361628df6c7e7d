@@ -1,4 +1,0 @@
-I"Û<h1 id="tests-for-exclusion-untitled">Tests for exclusion untitled</h1>
-
-<p>This page does not have a <code class="language-plaintext highlighter-rouge">title</code>, and it is excluded from the navigation â€“ unless it is located in a Jekyll collection (which provides default titles). To exclude a title-less page from the navigation, regardless of whether it is located in a collection, set <code class="language-plaintext highlighter-rouge">nav_exclude: true</code>.</p>
-:ET
