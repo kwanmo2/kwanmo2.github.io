@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Brief
-nav\_order: 1
-description: “brief page for this blog hosted on GitHub Pages."
-permalink: /
+nav_order: 1
 ---
 
 # Page를 만든 목적
