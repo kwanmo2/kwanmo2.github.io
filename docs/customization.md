@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Customization
-nav_order: 6
+nav\_order: 6
+nav_exclude: true_
 ---
 
 # Customization
-{: .no_toc }
+{: .no\_toc }
 
 ## Table of contents
-{: .no_toc .text-delta }
+{: .no\_toc .text-delta }
 
 1. TOC
 {:toc}
@@ -26,7 +27,7 @@ Just the Docs supports two color schemes: light (default), and dark.
 To enable a color scheme, set the `color_scheme` parameter in your site's `_config.yml` file:
 
 #### Example
-{: .no_toc }
+{: .no\_toc }
 
 ```yaml
 # Color scheme supports "light" (default) and "dark"
@@ -56,12 +57,12 @@ You can add custom schemes.
 If you want to add a scheme named `foo` (can be any name) just add a file `_sass/color_schemes/foo.scss` (replace `foo` by your scheme name) 
 where you override theme variables to change colors, fonts, spacing, etc.
 
-Available variables are listed in the [_variables.scss](https://github.com/pmarsceill/just-the-docs/tree/master/_sass/support/_variables.scss) file.
+Available variables are listed in the [\_variables.scss][1] file.
 
 For example, to change the link color from the purple default to blue, include the following inside your scheme file:
 
 #### Example
-{: .no_toc }
+{: .no\_toc }
 
 ```scss
 $link-color: $blue-000;
@@ -80,12 +81,14 @@ color_scheme: foo
 ### Switchable custom scheme
 
 If you want to be able to change the scheme dynamically, for example via javascript, just add a file `assets/css/just-the-docs-foo.scss` (replace `foo` by your scheme name)
-with the following content:`
+with the following content:\`
 
 {% raw %}
-    ---
-    ---
-    {% include css/just-the-docs.scss.liquid color_scheme="foo" %}
+```
+---
+---
+{% include css/just-the-docs.scss.liquid color_scheme="foo" %}
+```
 {% endraw %}
 
 This allows you to switch the scheme via the following javascript.
@@ -104,7 +107,7 @@ This will allow for all overrides to be kept in a single file, and for any upstr
 For example, if you'd like to add your own styles for printing a page, you could add the following styles.
 
 #### Example
-{: .no_toc }
+{: .no\_toc }
 
 ```scss
 // Print-only styles.
@@ -113,3 +116,5 @@ For example, if you'd like to add your own styles for printing a page, you could
   .main-content { max-width: auto; margin: 1em;}
 }
 ```
+
+[1]:	https://github.com/pmarsceill/just-the-docs/tree/master/_sass/support/_variables.scss

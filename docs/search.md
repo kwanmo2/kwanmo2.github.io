@@ -1,21 +1,22 @@
 ---
 layout: default
 title: Search
-nav_order: 7
+nav\_order: 7
+nav_exclude: true_
 ---
 
 # Search
-{: .no_toc }
+{: .no\_toc }
 
 ## Table of contents
-{: .no_toc .text-delta }
+{: .no\_toc .text-delta }
 
 1. TOC
 {:toc}
 
 ---
 
-Just the Docs uses [lunr.js](http://lunrjs.com) to add a client-side search interface powered by a JSON index that Jekyll generates.
+Just the Docs uses [lunr.js][1] to add a client-side search interface powered by a JSON index that Jekyll generates.
 All search results are shown in an auto-complete style interface (there is no search results page).
 By default, all generated HTML pages are indexed using the following data points:
 
@@ -76,7 +77,7 @@ To allow search for hyphenated words:
 search.tokenizer_separator: /[\s/]+/
 ```
 
-### Display URL in search results 
+### Display URL in search results
 
 ```yaml
 # Display the relative url in search results
@@ -101,7 +102,7 @@ Sometimes you might have a page that you don't want to be indexed for the search
 To exclude a page from search, add the `search_exclude: true` parameter to the page's YAML front matter:
 
 #### Example
-{: .no_toc }
+{: .no\_toc }
 
 ```yaml
 ---
@@ -124,4 +125,6 @@ $ bundle exec just-the-docs rake search:init
 ```
 
 This command creates the `assets/js/zzzz-search-data.json` file that Jekyll uses to create your search index.
-Alternatively, you can create the file manually with [this content]({{ site.github.repository_url }}/blob/master/assets/js/zzzz-search-data.json).
+Alternatively, you can create the file manually with [this content]({{ site.github.repository\_url }}/blob/master/assets/js/zzzz-search-data.json).
+
+[1]:	http://lunrjs.com

@@ -1,28 +1,29 @@
 ---
 layout: default
 title: Markdown kitchen sink
-nav_order: 99
+nav\_order: 99
+nav_exclude: true_
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or \~\~strikethrough\~\~.
 
-[Link to another page](another-page).
+[Link to another page][1].
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# [](#header-1)Header 1
+# [][2]Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## [](#header-2)Header 2
+## [][3]Header 2
 
 > This is a blockquote following a header.
->
+> 
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
+### [][4]Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -39,19 +40,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### [](#header-4)Header 4 `with code not transformed`
+#### [][5]Header 4 `with code not transformed`
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### [](#header-5)Header 5
+##### [][6]Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### [](#header-6)Header 6
+###### [][7]Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -62,7 +63,7 @@ end
 
 ### There's a horizontal rule below this.
 
-* * *
+---- 
 
 ### Here is an unordered list:
 
@@ -83,8 +84,8 @@ end
 - level 1 item
   - level 2 item
   - level 2 item
-    - level 3 item
-    - level 3 item
+	- level 3 item
+	- level 3 item
 - level 1 item
   - level 2 item
   - level 2 item
@@ -97,19 +98,19 @@ end
 ### Nesting an ol in ul in an ol
 
 - level 1 item (ul)
-  1. level 2 item (ol)
-  1. level 2 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
+  - level 2 item (ol)
+  - level 2 item (ol)
+	- level 3 item (ul)
+	- level 3 item (ul)
 - level 1 item (ul)
-  1. level 2 item (ol)
-  1. level 2 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-  1. level 4 item (ol)
-  1. level 4 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
+  - level 2 item (ol)
+  - level 2 item (ol)
+	- level 3 item (ul)
+	- level 3 item (ul)
+  - level 4 item (ol)
+  - level 4 item (ol)
+	- level 3 item (ul)
+	- level 3 item (ul)
 - level 1 item (ul)
 
 ### And a task list
@@ -120,11 +121,11 @@ end
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![][image-1]
 
 ### Large image
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![][image-2]
 
 
 ### Definition lists can be used with HTML syntax.
@@ -178,3 +179,14 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+[1]:	another-page
+[2]:	#header-1
+[3]:	#header-2
+[4]:	#header-3
+[5]:	#header-4
+[6]:	#header-5
+[7]:	#header-6
+
+[image-1]:	https://assets-cdn.github.com/images/icons/emoji/octocat.png
+[image-2]:	https://guides.github.com/activities/hello-world/branching.png
