@@ -1,6 +1,6 @@
 ---
 layout: default
-title: e Ink dashboard
+title: e잉크 대시보드
 parent: 2021
 nav_order: 1
 has_children: true
