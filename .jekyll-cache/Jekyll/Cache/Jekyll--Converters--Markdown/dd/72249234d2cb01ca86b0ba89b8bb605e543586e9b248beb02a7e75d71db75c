@@ -1,0 +1,25 @@
+I"3<h1 id="e-ink-dashboard-준비">E ink dashboard 준비</h1>
+<h2 id="준비물">준비물</h2>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Raspberry pi 3 or 4</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />waveshare epaper 7in5b_HD(Black, Red color)\</li>
+</ul>
+
+<p><a href="https://www.devicemart.co.kr/goods/view?no=1289629">### Raspberry pi 3 or 4</a>
+3이나 4, zero도 상관없다. 어차피 구현하려는 기능은 연산이 필요한 건 아니라 성능에 큰 영향을 받지 않는다. 파이썬이 돌아가고, e잉크 디스플레이 드라이버만 돌아가면 된다. 라즈비안 OS가 올라갈 SD카드도 4GB면 충분하다. 성능 좋은 라즈베리파이 4보다는 구형 라즈베리파이 2, 3 제품이 남아있다면 가장 적합하다.</p>
+
+<p><a href="https://ko.aliexpress.com/item/4001142299891.html?gatewayAdapt=glo2kor&amp;spm=a2g0o.9042311.0.0.27424c4dJMKiX6">### waveshare epaper 7in5b_HD(Black, Red color)</a></p>
+<ul>
+  <li>알리바바에서 팔고 있는 대부분의 eInk 디스플레이는 waveshare라는 회사에서 제조한 제품이다. 가격도 그렇게 나쁘지 않아서 이 회사 제품으로 구매했다.</li>
+  <li>항상 이런 제품을 구매할 때는 깃헙이나 다른 예제들이 어떤 제품을 쓰고 있는지 미리 확인해보면 좋다.</li>
+  <li>많은 e-ink 대쉬보드 코드가 waveshare 디스플레이를 사용하고 있기에 망설임 없이 골랐다.</li>
+  <li>다양한 사이즈가 있는데 달력 내용을 잘 볼 수 있는 7인치 제품으로 골랐다</li>
+</ul>
+
+<p><a href="https://ko.aliexpress.com/item/32990539479.html?gatewayAdapt=glo2kor&amp;spm=a2g0o.9042311.0.0.27424c4dJMKiX6">### 디스플레이 케이스</a></p>
+<ul>
+  <li>7.5인치 디스플레이를 넣을 적당한 케이스를 알고 있다면 구매하지 않아도 괜찮다.</li>
+  <li>벽에 붙이거나 어디에 세워놓</li>
+</ul>
+
+:ET
