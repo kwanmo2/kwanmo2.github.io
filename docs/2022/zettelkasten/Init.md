@@ -6,8 +6,15 @@ nav_order: 99
 has_children: true
 ---
 
-''' c
+```c
 int var = 256;
-'''
+```
 
-\'print()\'
+```mermaid
+graph TD
+
+Biology --> Chemistry
+
+class Biology,Chemistry internal-link;
+```
+
