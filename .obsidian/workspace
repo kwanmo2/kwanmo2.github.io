@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "ec403747cb39676d",
+    "type": "split",
+    "children": [
+      {
+        "id": "57b2187a262a1b14",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/2022/zettelkasten/Init.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a69678b4aa5817c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a0aa99d851a8fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24d1da0c325051e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbad9bd72f651041",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eab9bc5fc21321ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "90dfa0f099b338db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3956f1e434f2a372",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/2022/zettelkasten/Init.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "57b2187a262a1b14",
+  "lastOpenFiles": [
+    "docs/2022/zettelkasten/Init.md"
+  ]
+}
