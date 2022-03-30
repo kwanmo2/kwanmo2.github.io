@@ -125,18 +125,6 @@ var store = [{
         "url": "/docs/license/",
         "teaser": null
       },{
-        "title": "Lhasa Apso",
-        "excerpt":"   The Lhasa Apso (/ˈlɑːsə ˈæpsoʊ/ lah-sə ap-soh) is a non-sporting dog breed originating in Tibet. It was bred as an interior sentinel in the Buddhist monasteries, to alert the monks to any intruders who entered. Lhasa is the capital city of Tibet, and apso is a word in the Tibetan language meaning “bearded”, so, Lhasa Apso simply means “long-haired Lhasa dog”. There are, however, some who claim that the word “apso” is a form of the Tibetan word “rapso”, meaning “goat-like”, which would make the equivalent translation “wooly Lhasa dog”.       From Wikipedia, the free encyclopedia   ","categories": [],
-        "tags": [],
-        "url": "/pets/lhasa-apso/",
-        "teaser": null
-      },{
-        "title": "Tabby",
-        "excerpt":"   A tabby is any domestic cat that has a coat featuring distinctive stripes, dots, lines or swirling patterns, usually together with a mark resembling an ‘M’ on its forehead. Tabbies are sometimes erroneously assumed to be a cat breed. In fact, the tabby pattern is found in many breeds, as well as among the general mixed-breed population. The tabby pattern is a naturally occurring feature that may be related to the coloration of the domestic cat’s direct ancestor, the African wildcat, which (along with the European wildcat and Asiatic wildcat) has a similar coloration.       From Wikipedia, the free encyclopedia   ","categories": [],
-        "tags": [],
-        "url": "/pets/tabby/",
-        "teaser": null
-      },{
         "title": "Baz Boom Identity",
         "excerpt":"Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn’t a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening &amp; War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.                                                                                                                                This is a sample gallery to go along with this case study.       hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you’ll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening &amp; War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn’t a business model bringing a tote bag to a knife fight.  ","categories": [],
         "tags": [],
