@@ -538,4 +538,10 @@ var store = [{
         "tags": ["video","layout"],
         "url": "/posts/layout/uncategorized/layout-header-video/",
         "teaser": null
+      },{
+        "title": "Welcome to Jekyll!",
+        "excerpt":"Welcome   Hello world, this is my first Jekyll blog post.   I hope you like it!  ","categories": ["posts"],
+        "tags": [],
+        "url": "/posts/initial-post/",
+        "teaser": null
       },]
