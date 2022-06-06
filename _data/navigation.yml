@@ -21,9 +21,7 @@ foo:
 # main links
 main:
   - title: "Study"
-    url: /docs/study
-  - title: "Essay"
-    url: /docs/essay
+    url: /year-archive-study/
   - title: "About"
     url: /about/
   - title: "Posts"
