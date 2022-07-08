@@ -20,12 +20,17 @@ foo:
 
 # main links
 main:
-  - title: "Study"
-    url: /year-archive-study/
-  - title: "About"
-    url: /about/
+  - title: "Hardware"
+    url: /hardware/
+  - title: "Software"
+    url: /software/
+  - title: "Knowledge"
+    url: /Knowledge/
   - title: "Posts"
     url: /year-archive/
+  - title: "About"
+    url: /about/
+
 
 
 # documentation links
