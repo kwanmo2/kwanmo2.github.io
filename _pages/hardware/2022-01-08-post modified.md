@@ -1,7 +1,7 @@
 ---
 title: "post modified"
-categories:
- - Post Formats
+layout: collection
+permalink: /hardware/
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
