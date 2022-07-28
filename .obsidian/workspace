@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/about.md",
+            "file": "_pages/2022-01-08-post modified.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_pages/2022-01-08-post modified.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,13 +108,15 @@
   },
   "active": "57b2187a262a1b14",
   "lastOpenFiles": [
+    "_pages/2022-01-08-post modified.md",
+    "_pages/knowledge/Untitled.md",
+    "_pages/posts/edge-case.md",
     "_pages/about.md",
     "_pages/sample-page.md",
     "_posts/2022-03-30-testpost.md",
     "posts/_posts/2010-09-09-post-gallery.md",
     "posts/_posts/2022-03-29-initial post.md",
     "_posts/2022-03-29-initial post.md",
-    "_docs/17-javascript.md",
-    "docs/2022/zettelkasten/Init.md"
+    "_docs/17-javascript.md"
   ]
 }
