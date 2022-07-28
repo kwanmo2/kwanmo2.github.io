@@ -1,8 +1,10 @@
 ---
 title: Edge Case
-layout: category
+layout: collection
 permalink: /posts/
-taxonomy: Edge Case
+collection: pets
+entries_layout: grid
+classes: wide
 ---
 
 Sample post listing for the category `Edge Case`.
