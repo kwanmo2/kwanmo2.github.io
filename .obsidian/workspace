@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57b2187a262a1b14",
+        "id": "760baea533f5fed1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_pages/hardware/2022-01-09-X-ray.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/hardware/2022-01-09-X-ray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "57b2187a262a1b14",
+  "active": "760baea533f5fed1",
   "lastOpenFiles": [
     "_pages/hardware/2022-01-09-X-ray.md",
     "_pages/hardware/2022-01-08-post modified.md",
