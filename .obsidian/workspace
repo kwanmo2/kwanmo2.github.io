@@ -7,12 +7,8 @@
         "id": "760baea533f5fed1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_pages/year-archive-study.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/year-archive-study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,10 +109,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "760baea533f5fed1",
+  "active": "b24d1da0c325051e",
   "lastOpenFiles": [
-    "_pages/category-archive.md",
     "_pages/year-archive-study.md",
+    "_pages/category-archive.md",
     "_pages/sitemap.md",
     "_pages/year-archive.md",
     "_pages/terms.md",
