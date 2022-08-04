@@ -1,96 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-06T13:42:58-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Look into the vision</title><subtitle>A flexible Jekyll theme for your blog or site with a minimalist aesthetic.</subtitle><author><name>kwanmo Yeon</name></author><entry><title type="html">Edge Case: Many Tags</title><link href="http://localhost:4000/posts/edge%20case/edge-case-many-tags/" rel="alternate" type="text/html" title="Edge Case: Many Tags" /><published>2022-06-01T00:00:00-04:00</published><updated>2022-06-01T00:00:00-04:00</updated><id>http://localhost:4000/posts/edge%20case/edge-case-many-tags</id><content type="html" xml:base="http://localhost:4000/posts/edge%20case/edge-case-many-tags/">&lt;p&gt;This post has many tags.&lt;/p&gt;</content><author><name>kwanmo Yeon</name></author><category term="posts" /><category term="Edge Case" /><category term="8BIT" /><category term="alignment" /><category term="Articles" /><category term="captions" /><category term="categories" /><category term="chat" /><category term="comments" /><category term="content" /><category term="css" /><category term="dowork" /><category term="edge case" /><category term="embeds" /><category term="excerpt" /><category term="Fail" /><category term="featured image" /><category term="FTW" /><category term="Fun" /><category term="gallery" /><category term="html" /><category term="image" /><category term="Jekyll" /><category term="layout" /><category term="link" /><category term="Love" /><category term="markup" /><category term="Mothership" /><category term="Must Read" /><category term="Nailed It" /><category term="Pictures" /><category term="Post Formats" /><category term="quote" /><category term="standard" /><category term="Success" /><category term="Swagger" /><category term="Tags" /><category term="template" /><category term="title" /><category term="twitter" /><category term="Unseen" /><category term="video" /><category term="YouTube" /><category term="U:R:COOL" /><category term="C#" /><summary type="html">This post has many tags.</summary></entry><entry><title type="html">Edge Case: Nested and Mixed Lists</title><link href="http://localhost:4000/posts/edge%20case/edge-case-nested-and-mixed-lists/" rel="alternate" type="text/html" title="Edge Case: Nested and Mixed Lists" /><published>2022-05-15T00:00:00-04:00</published><updated>2022-05-15T00:00:00-04:00</updated><id>http://localhost:4000/posts/edge%20case/edge-case-nested-and-mixed-lists</id><content type="html" xml:base="http://localhost:4000/posts/edge%20case/edge-case-nested-and-mixed-lists/">&lt;p&gt;Nested and mixed lists are an interesting beast. It’s a corner case to make sure that&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-04T11:12:50-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Look into the vision</title><subtitle>A flexible Jekyll theme for your blog or site with a minimalist aesthetic.</subtitle><author><name>kwanmo Yeon</name></author><entry><title type="html">Script언어의 매력</title><link href="http://localhost:4000/software/Script%EC%96%B8%EC%96%B4%EC%9D%98-%EB%A7%A4%EB%A0%A5/" rel="alternate" type="text/html" title="Script언어의 매력" /><published>2022-08-04T00:00:00-04:00</published><updated>2022-08-04T00:00:00-04:00</updated><id>http://localhost:4000/software/Script%EC%96%B8%EC%96%B4%EC%9D%98%20%EB%A7%A4%EB%A0%A5</id><content type="html" xml:base="http://localhost:4000/software/Script%EC%96%B8%EC%96%B4%EC%9D%98-%EB%A7%A4%EB%A0%A5/">&lt;p&gt;학부 생활을 하면서 python에 대해서 듣기는 많이 들었지만 실제로 사용해본 적이 없었다. 당시 학교에서는 계산 및 시뮬레이션 연산을 하는데 매트랩 위주였기 때문에 접할 필요성을 느끼지 못한 것이 사실이다. 그러다 취업을 하고 회사를 다니면서 파이썬의 매력에 빠지게 되었다. 회사에서는 매트랩은 1 copy만 보유하고 있기 때문에 필요한 사람들끼리 돌려쓰거나, 공용 PC에 설치해서 사용하는 방법으로 사용하는데는 한계가 있다. 그래서 찾아보니 내가 매트랩으로 하는 간단한 이미지 처리는 파이썬으로도 충분히 하고도 남는다는 사실을 알았다. 거기다가 파이썬은 무료!!다.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Lists within lists do not break the ordered list numbering order&lt;/li&gt;
-  &lt;li&gt;Your list styles go deep enough.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;파이썬 기본 모듈 이외의 다양한 모듈은 인터넷, github에서 다운로드 받을 수 있다. 매트랩을 써본 사람이라면 알겠지만 매트랩의 경우 추가적인 toolbox를 따로 판매한다. Signal processing, Image processing 등 tool box를 게임 DLC처럼 판매하는 방식이다. 반면 파이썬의 경우, 매트랩의 tool box보다 더 다양한 모듈이 지금도 다양한 사람들에 의해 만들어지고, 많은 수가 github에 오픈소스로 올려두고 있기 때문에 파이썬 코드로 상업적인 영리 활동을 하지 않는 이상 무료로 사용할 수 있다.&lt;/p&gt;
 
-&lt;h3 id=&quot;ordered--unordered--ordered&quot;&gt;Ordered – Unordered – Ordered&lt;/h3&gt;
+&lt;p&gt;내가 일하는 Computer vision 분야에서는 실제 산업 환경에서 대부분 C/C++ 언어를 적용한다. 적당히 유연하고, 레퍼런스가 많고 성능적으로 유연하고 비전과 다른 제어를 비롯한 하드웨어 장비들과의 호환이 좋고, 파이썬에 비해 메모리 관리 부분에서도 C/C++이 훨씬 더 자유롭기 때문이다. 파이썬을 직접 산업 분야에 바로 적용하는 일은 거의 없다. 매우 low level 산업이거나 성능이 중요하지 않고 성능이 크게 필요로 하지않는 분야에서만 파이썬을 매우 제한적으로 사용해왔다.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;ordered item&lt;/li&gt;
-  &lt;li&gt;ordered item
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;unordered&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;unordered&lt;/strong&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;ol&gt;
-      &lt;li&gt;ordered item&lt;/li&gt;
-      &lt;li&gt;ordered item&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ordered item&lt;/li&gt;
-  &lt;li&gt;ordered item&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;하지만 최근 파이썬을 사용하는 고객들이 매우 늘었는데, 산업 현장 적용은 여전히 C/C++ 언어로 진행하되 최적 환경 및 파라미터를 찾는 부분, 그리고 적용 전 테스트 부분을 파이썬으로 자동화 시켜놓고 있다. 그렇다. 오늘 내가 어필하려고 하는 파이썬, 스크립트 언어의 매력은 여기 있다. 이 언어는 여전히 산업현장에서 쓰이기에는 부적절한 요소가 많다. 하지만 산업현장에 들어가기 위한 셋업 테스트 단계에서 파이썬은 사용자에게 많은 유연성을 제공하기 때문에 유용하다.&lt;/p&gt;
 
-&lt;h3 id=&quot;ordered--unordered--unordered&quot;&gt;Ordered – Unordered – Unordered&lt;/h3&gt;
+&lt;p&gt;예를 들어 Jupyter notebook 이나 Spyder같은 파이썬 기반 interactive 프로그램을 사용하면 셀 단위로 스크립트 코드를 실행할 수 있다. 이 말은 C/C++ 처럼 한 번 컴파일 후에 다른 동작을 위해서 코드 수정/혹은 추가 작성 후 다시 컴파일/디버깅 해야하는 다소 번거로운 과정 대신 파이썬에서는 코드를 수정/추가해서 해당 셀만 다시 실행시키면 되기 때문에 바로바로 변수들이나 데이터 값들을 확인할 수 있다. 이런 장점을 살린 python interactive 모드도 있다. 만약 추정치를 입력 후, 데이터를 뽑아내고, 또다시 최적 근접치에 가까운 추정치를 입력하는 loop 방식으로 최적화를 하는 테스트 환경이라면 파이썬이 빛을 발할 가능성이 높다.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;ordered item&lt;/li&gt;
-  &lt;li&gt;ordered item
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;unordered&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;unordered&lt;/strong&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;ul&gt;
-      &lt;li&gt;unordered item&lt;/li&gt;
-      &lt;li&gt;unordered item&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ordered item&lt;/li&gt;
-  &lt;li&gt;ordered item&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;unordered--ordered--unordered&quot;&gt;Unordered – Ordered – Unordered&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;unordered item&lt;/li&gt;
-  &lt;li&gt;unordered item
-    &lt;ol&gt;
-      &lt;li&gt;ordered&lt;/li&gt;
-      &lt;li&gt;ordered
-        &lt;ul&gt;
-          &lt;li&gt;unordered item&lt;/li&gt;
-          &lt;li&gt;unordered item&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;unordered item&lt;/li&gt;
-  &lt;li&gt;unordered item&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;unordered--unordered--ordered&quot;&gt;Unordered – Unordered – Ordered&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;unordered item&lt;/li&gt;
-  &lt;li&gt;unordered item
-    &lt;ul&gt;
-      &lt;li&gt;unordered&lt;/li&gt;
-      &lt;li&gt;unordered
-        &lt;ol&gt;
-          &lt;li&gt;&lt;strong&gt;ordered item&lt;/strong&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;ordered item&lt;/strong&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;unordered item&lt;/li&gt;
-  &lt;li&gt;unordered item&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;task-lists&quot;&gt;Task Lists&lt;/h3&gt;
-
-&lt;ul class=&quot;task-list&quot;&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Finish my changes&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Push my commits to GitHub&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Open a pull request
-    &lt;ul class=&quot;task-list&quot;&gt;
-      &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Follow discussions&lt;/li&gt;
-      &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Push new commits&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>kwanmo Yeon</name></author><category term="posts" /><category term="Edge Case" /><category term="content" /><category term="css" /><category term="edge case" /><category term="lists" /><category term="markup" /><summary type="html">Nested and mixed lists are an interesting beast. It’s a corner case to make sure that</summary></entry><entry><title type="html">Test Study</title><link href="http://localhost:4000/post%20formats/testpost/" rel="alternate" type="text/html" title="Test Study" /><published>2022-03-30T00:00:00-04:00</published><updated>2018-02-19T08:05:34-05:00</updated><id>http://localhost:4000/post%20formats/testpost</id><content type="html" xml:base="http://localhost:4000/post%20formats/testpost/">&lt;h1 id=&quot;second-days&quot;&gt;second days&lt;/h1&gt;
-&lt;p&gt;testest&lt;/p&gt;</content><author><name>kwanmo Yeon</name></author><category term="Post Formats" /><summary type="html">second days testest</summary></entry><entry><title type="html">Exclude Post from Search Index</title><link href="http://localhost:4000/post%20formats/initial-post/" rel="alternate" type="text/html" title="Exclude Post from Search Index" /><published>2022-03-29T00:00:00-04:00</published><updated>2018-02-19T08:05:34-05:00</updated><id>http://localhost:4000/post%20formats/initial%20post</id><content type="html" xml:base="http://localhost:4000/post%20formats/initial-post/">&lt;h1 id=&quot;start&quot;&gt;Start&lt;/h1&gt;
-
-&lt;p&gt;Start MY NEW BLOG.&lt;/p&gt;</content><author><name>kwanmo Yeon</name></author><category term="Post Formats" /><summary type="html">Start</summary></entry></feed>
+&lt;p&gt;이미지 처리를 하기 위해서는 다양한 파라미터, mask kernel 사이즈, threshold를 각 이미지 별로, 혹은 환경 별로 최적화된 값을 찾아내야한다. 어떤 공식이 있는 것도 아니고 노가다 성으로 원본과 처리 후 이미지, 그리고 입력한 파라미터 값을 보면서 결정해 나가야하는 최적화방식을 채택해야했다.&lt;/p&gt;</content><author><name>kwanmo Yeon</name></author><category term="Software" /><category term="Python" /><summary type="html">학부 생활을 하면서 python에 대해서 듣기는 많이 들었지만 실제로 사용해본 적이 없었다. 당시 학교에서는 계산 및 시뮬레이션 연산을 하는데 매트랩 위주였기 때문에 접할 필요성을 느끼지 못한 것이 사실이다. 그러다 취업을 하고 회사를 다니면서 파이썬의 매력에 빠지게 되었다. 회사에서는 매트랩은 1 copy만 보유하고 있기 때문에 필요한 사람들끼리 돌려쓰거나, 공용 PC에 설치해서 사용하는 방법으로 사용하는데는 한계가 있다. 그래서 찾아보니 내가 매트랩으로 하는 간단한 이미지 처리는 파이썬으로도 충분히 하고도 남는다는 사실을 알았다. 거기다가 파이썬은 무료!!다.</summary></entry></feed>

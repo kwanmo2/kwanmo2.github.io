@@ -1,16 +1,17 @@
 # example navigation
 # main links
 main:
-  - title: "Hardware"
-    url: /hardware/
-  - title: "Software"
-    url: /software/
-  - title: "Knowledge"
-    url: /knowledge/
-  - title: "Posts"
-    url: /posts/
-  - title: "About"
+  - title: "Introduce"
     url: /about/
+  - title: "Years"
+    url: "/year-archive-study/"
+  - title: "Category"
+    url: "/categories/"
+  - title: "Tags"
+    url: /tags/
+
+  
+  
 
 
 

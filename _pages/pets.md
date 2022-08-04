@@ -1,7 +1,7 @@
 ---
 title: Pets
 layout: collection
-permalink: /posts/
+permalink: /pets/
 collection: pets
 entries_layout: grid
 classes: wide

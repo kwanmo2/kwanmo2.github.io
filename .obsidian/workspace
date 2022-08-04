@@ -7,6 +7,18 @@
         "id": "760baea533f5fed1",
         "type": "leaf",
         "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_pages/year-archive-study.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "bda8c9ecc2e732bf",
+        "type": "leaf",
+        "state": {
           "type": "empty",
           "state": {}
         }
@@ -36,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "this post has many tags",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467
+    "width": 245
   },
   "right": {
     "id": "eab9bc5fc21321ab",
@@ -73,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_pages/year-archive-study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +116,15 @@
   },
   "active": "760baea533f5fed1",
   "lastOpenFiles": [
-    "_pages/hardware/2022-01-09-X-ray.md",
-    "_pages/hardware/2022-01-08-post modified.md",
-    "_pages/posts/pets.md",
-    "_pages/about/about.md",
-    "_pages/posts/edge-case.md",
-    "_pages/knowledge/Untitled.md",
-    "_pages/about.md",
+    "_pages/category-archive.md",
+    "_pages/year-archive-study.md",
+    "_pages/sitemap.md",
+    "_pages/year-archive.md",
+    "_pages/terms.md",
+    "_pages/tag-archive.md",
     "_pages/sample-page.md",
-    "_posts/2022-03-30-testpost.md",
-    "posts/_posts/2010-09-09-post-gallery.md"
+    "_pages/recipes-archive.md",
+    "_pages/portfolio-archive.md",
+    "_docs/10-layouts.md"
   ]
 }
