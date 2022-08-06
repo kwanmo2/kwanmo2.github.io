@@ -7,16 +7,12 @@
         "id": "760baea533f5fed1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "bda8c9ecc2e732bf",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-08-06.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2022-08-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +106,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b24d1da0c325051e",
+  "active": "760baea533f5fed1",
   "lastOpenFiles": [
+    "_posts/2022-08-06.md",
+    "_posts/2022-08-04-Script언어의 매력.md",
     "_pages/year-archive-study.md",
     "_pages/category-archive.md",
     "_pages/sitemap.md",
@@ -118,8 +117,6 @@
     "_pages/terms.md",
     "_pages/tag-archive.md",
     "_pages/sample-page.md",
-    "_pages/recipes-archive.md",
-    "_pages/portfolio-archive.md",
-    "_docs/10-layouts.md"
+    "_pages/recipes-archive.md"
   ]
 }
