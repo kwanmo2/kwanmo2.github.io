@@ -18,17 +18,29 @@ Roam research(이하 Roam으로 표기)는 내가 처음 써본 백링크 노트
 사용해보니 동작하기는 하는데, 사용이 불편하고 인코딩 때문에 한글이 깨진다는 문제가 있어 아주 살짝 수정했다. Roam에서 벗어나고 싶은데 수많은 이미지 첨부파일 때문에 옮기기 꺼려지는 분들은 한 번 사용해보길 바란다. 참고로 윈도우/맥 둘 다 동작한다.
 
 1. 터미널에서 'git clone' 입력하여 해당 파이썬 코드 다운로드
-![이미지1](2022-08-08_1.png)
+<p align="center">
+  <img width="460" height="300" src="assets/2022-08-08_1.png">
+</p>
 
 2. Roam에서 Export한 md 폴더들이 있는 위치에 .py 파일 옮기기
-![](2022-08-08_2.png)
+<p align="center">
+  <img width="460" height="300" src="assets/2022-08-08_2.png">
+</p>
 
 3. 터미널에서 'python3 down' 입력
-![이미지1](2022-08-08_3.png)
+<p align="center">
+  <img width="460" height="300" src="assets/2022-08-08_3.png">
+</p>
 
 4. 생성된 target 폴더 안에 들어가보면, 이미지가 첨부 있었던 페이지들이 따로 나와있고 
-![이미지1](2022-08-08_7.png)
+<p align="center">
+  <img width="460" height="300" src="assets/2022-08-08_7.png">
+</p>
 
 5. 노트에는 이미지 링크가 수정되어 있고, assets 폴더에는 firebase 이미지들이 png 확장자로 저장
-![이미지1](2022-08-08_8.png)
-![이미지1](2022-08-08_9.png)
+<p align="center">
+  <img width="460" height="300" src="assets/2022-08-08_8.png">
+</p>
+<p align="center">
+  <img width="460" height="300" src="assets/2022-08-08_9.png">
+</p>
