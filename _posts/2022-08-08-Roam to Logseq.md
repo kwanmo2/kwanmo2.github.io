@@ -19,28 +19,27 @@ Roam research(이하 Roam으로 표기)는 내가 처음 써본 백링크 노트
 
 1. 터미널에서 'git clone' 입력하여 해당 파이썬 코드 다운로드
 <p align="center">
-  <img width="460" height="300" src="/assets/MyImages/2022-08-08_1.png">
+	<img width="460" height="300" data-action="zoom" src= "/assets/MyImages/2022-08-08_1.png" >
 </p>
 
 2. Roam에서 Export한 md 폴더들이 있는 위치에 .py 파일 옮기기
 <p align="center">
-  <img width="460" height="300" src="/assets/MyImages/2022-08-08_2.png">
+	<img width="460" height="300" data-action="zoom" src= "/assets/MyImages/2022-08-08_2.png" >
 </p>
-
 3. 터미널에서 'python3 down' 입력
 <p align="center">
-  <img width="460" height="300" src="/assets/MyImages/2022-08-08_3.png">
+	<img width="460" height="300" data-action="zoom" src= "/assets/MyImages/2022-08-08_3.png" >
 </p>
 
 4. 생성된 target 폴더 안에 들어가보면, 이미지가 첨부 있었던 페이지들이 따로 나와있고 
 <p align="center">
-  <img width="460" height="300" src="/assets/MyImages/2022-08-08_7.png">
+	<img width="460" height="300" data-action="zoom" src= "/assets/MyImages/2022-08-08_7.png" >
 </p>
 
 5. 노트에는 이미지 링크가 수정되어 있고, assets 폴더에는 firebase 이미지들이 png 확장자로 저장
 <p align="center">
-  <img width="460" height="300" src="/assets/MyImages/2022-08-08_8.png">
+	<img width="460" height="300" data-action="zoom" src= "/assets/MyImages/2022-08-08_8.png" >
 </p>
 <p align="center">
-  <img width="460" height="300" src="/assets/MyImages/2022-08-08_9.png">
+	<img width="460" height="300" data-action="zoom" src= "/assets/MyImages/2022-08-08_9.png" >
 </p>
