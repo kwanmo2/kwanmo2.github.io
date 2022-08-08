@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-08-06-MFC ListControl 클릭해서 아이템 변경.md",
+            "file": "_posts/2022-08-08-Roam to Logseq.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245,
-    "collapsed": true
+    "width": 245
   },
   "right": {
     "id": "eab9bc5fc21321ab",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-08-06-MFC ListControl 클릭해서 아이템 변경.md",
+                "file": "_posts/2022-08-08-Roam to Logseq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +108,15 @@
   },
   "active": "760baea533f5fed1",
   "lastOpenFiles": [
+    "_posts/2022-08-06-Pyinstaller 설치 시 오류.md",
+    "_posts/2022-08-06-MFC ListControl 클릭해서 아이템 변경.md",
+    "_posts/2022-08-08-Roam to Logseq.md",
     "_posts/2022-08-06-MFC ListControl 클릭해서 아이템 수정.md",
     "_posts/2022-08-04-Script언어의 매력.md",
-    "_posts/2022-08-06-Pyinstaller 설치 시 오류.md",
     "_pages/year-archive-study.md",
     "_pages/category-archive.md",
     "_pages/sitemap.md",
     "_pages/year-archive.md",
-    "_pages/terms.md",
-    "_pages/tag-archive.md",
-    "_pages/sample-page.md"
+    "_pages/terms.md"
   ]
 }

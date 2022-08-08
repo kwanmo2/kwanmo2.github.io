@@ -1,5 +1,5 @@
 ---
-title:  "Pyinstaller 설치 시 오류"
+title:  "MFC ListControl 클릭해서 아이템 변경"
 search: false
 categories: 
   - Software
