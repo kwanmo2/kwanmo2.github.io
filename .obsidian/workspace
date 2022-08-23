@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6fdfd2e82e49eef8",
+        "id": "1c077f5f77b455e6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-08-15-MFC 코드 담아두기.md",
+            "file": "_posts/2022-08-22.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-08-15-MFC 코드 담아두기.md",
+                "file": "_posts/2022-08-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6fdfd2e82e49eef8",
+  "active": "1c077f5f77b455e6",
   "lastOpenFiles": [
+    "_posts/2022-08-19-MFC 코드 담아두기.md",
+    "_posts/2022-08-22.md",
     "_posts/2022-08-15 MFC 개요.md",
-    "_posts/2022-08-15-MFC 코드 담아두기.md",
     "_posts/2022-08-08-Roam to Logseq.md",
     "_posts/2022-08-06-MFC ListControl 클릭해서 아이템 변경.md",
     "_posts/2022-08-06-Pyinstaller 설치 시 오류.md",
     "_posts/2022-08-19.md",
     "_portfolio/baz-boom-identity.md",
     "_posts/2022-08-06-MFC ListControl 클릭해서 아이템 수정.md",
-    "_posts/2022-08-04-Script언어의 매력.md",
-    "_pages/year-archive-study.md"
+    "_posts/2022-08-04-Script언어의 매력.md"
   ]
 }
