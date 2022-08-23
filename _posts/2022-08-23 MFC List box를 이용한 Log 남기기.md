@@ -39,7 +39,7 @@ void CApplicationDlg::AddMsg(LPCTSTR szMsg) // Message Display 함수
 
 ```
 
-위 두 함수가 기본적으로 필요. 여기서는 연도를 두 자리만 표기하기 위해 systemTime.wYear%100 을 사용했다.
+위 두 함수가 기본적으로 필요. 여기서는 연도를 두 자리만 표기하기 위해 systemTime.wYear%100 을 사용했다..
 
 UM_DISPLAY_MSG 는 stdafx.h 또는 pch.h(미리 컴파일된 헤더)에 새롭게 작성하면 된다.
 ```C++
