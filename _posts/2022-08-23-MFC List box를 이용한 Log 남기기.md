@@ -10,7 +10,7 @@ GUI 프로그램을 작성하다보면 직관적인 콘솔 프로그램에 비�
 
 다만 MFC의 메시지를 사용하여 손쉽게 타임스탬프와 함께 로그를 남길 수 있는 방법이 가장 유용하다.
 
-```C++
+```c++
 LRESULT CApplicationDlg::MsgStatus(WPARAM wParam, LPARAM lParam)
 {
 	LPCTSTR szMsg = (LPCTSTR)wParam;
