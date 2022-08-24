@@ -42,21 +42,21 @@ void CApplicationDlg::AddMsg(LPCTSTR szMsg) // Message Display 함수
 위 두 함수가 기본적으로 필요. 여기서는 연도를 두 자리만 표기하기 위해 systemTime.wYear%100 을 사용했다..
 
 UM_DISPLAY_MSG 는 stdafx.h 또는 pch.h(미리 컴파일된 헤더)에 새롭게 작성하면 된다.
-```C++
+```++
 UM_DISPLAY_MSG
 ```
 
 이제까지 작성한 부분은 임의의 함수를 만들기만 했고, 실제 메시지맵에 등록이 필요하다.
-```C++
+```c++
 BEGIN_MESSAGE_MAP(CApplicationDlg, CDialogEx)
 	ON_MESSAGE(UM_DISPLAY_MSG, &CApplicationDlg::MsgStatus)
 END_MESSAGE_MAP()
 ```
 
 등록까지 완료했으면, 실제함수는 AddMsg의 매개변수에 문자열을 넣으면 된다.
-```C++
+~~~c++
 AddMsg(_T("Internet Connection confirmed.."));
-```
+~~~
 
 
 완료, 주요 동작 지점마다 AddMsg를 이용하여 프로그램 사용 중에도 어떤 동작 순서를 가지고 있는지 확인이 가능하다.
