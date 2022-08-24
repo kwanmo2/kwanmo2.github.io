@@ -62,5 +62,5 @@ AddMsg(_T("Internet Connection confirmed.."));
 완료, 주요 동작 지점마다 AddMsg를 이용하여 프로그램 사용 중에도 어떤 동작 순서를 가지고 있는지 확인이 가능하다.
 
 <p align="center">
-	<img width="460" height="300" data-action="zoom" src= "/assets/MyImages/2022-08-24(1)png" >
+	<img width="460" height="300" data-action="zoom" src= "/assets/MyImages/2022-08-24(1).png" >
 </p>
