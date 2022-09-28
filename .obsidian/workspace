@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-08-29-Mac에서 Verilog HDL 연습하기.md",
+            "file": "_posts/2022-09-29 노트앱 정착기.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-08-29-Mac에서 Verilog HDL 연습하기.md",
+                "file": "_posts/2022-09-29 노트앱 정착기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "1c077f5f77b455e6",
   "lastOpenFiles": [
+    "_posts/2022-08-08-Roam to Logseq.md",
+    "_posts/2022-08-15-MFC 개요.md",
+    "_posts/2022-09-29 노트앱 정착기.md",
     "_posts/2022-08-23-MFC List box를 이용한 Log 남기기.md",
     "_posts/2022-08-29-Mac에서 Verilog HDL 연습하기.md",
-    "_drafts/post-draft.md",
-    "_drafts/2022-08-15-MFC 코드 담아두기.md",
-    "_posts/2022-08-23 MFC List box를 이용한 Log 남기기.md",
-    "_posts/2022-08-19-MFC 코드 담아두기.md",
-    "_posts/2022-08-04-Script언어의 매력.md",
+    "_posts/Untitled.md",
     "_posts/2022-08-06-Pyinstaller 설치 시 오류.md",
-    "_posts/2022-08-22.md",
-    "_posts/2022-08-15 MFC 개요.md"
+    "_posts/2022-08-04-Script언어의 매력.md",
+    "_drafts/2022-08-15-MFC 코드 담아두기.md",
+    "_drafts/post-draft.md"
   ]
 }
