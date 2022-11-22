@@ -4,12 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "1c077f5f77b455e6",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
+        "id": "f1491a353985c815",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c077f5f77b455e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7733f347638530b7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -27,7 +44,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -101,7 +120,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c077f5f77b455e6",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "7733f347638530b7",
   "lastOpenFiles": [
     "_posts/2022-08-08-Roam to Logseq.md",
     "_posts/2022-08-15-MFC 개요.md",
