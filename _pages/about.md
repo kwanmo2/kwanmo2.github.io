@@ -27,6 +27,10 @@ last_modified_at: 2021-05-11T10:23:16-04:00
 
 > "When you need to learn quickly, learn from others. 
 > When you need to learn deeply, learn from experience."
+> "빨리 배워야 할 때는 다른 사람에게서 배우십시오. 
+> 깊이 있게 배워야 할 때는 경험을 통해 배우십시오."
 
 > "A paradox of life is that the greatest returns come in the long-term, but the opportunity cost of moving slowly is huge. Long-term thinking is not slow acting. 
 > Act fast on things that compound. Never let a day pass without doing something that will benefit you in a decade."
+> "인생의 역설은 가장 큰 수익은 장기적 관점에서 얻을 수 있지만, 느리게 움직일 때 발생하는 기회비용은 엄청나다는 것입니다. 장기적인 사고는 느린 행동이 아닙니다. 
+> 복합적인 사안에 대해서는 빠르게 행동하세요. 10년 후 자신에게 이익이 될 일을 하지 않고 하루를 보내지 마세요."
