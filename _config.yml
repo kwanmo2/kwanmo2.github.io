@@ -11,9 +11,9 @@ minimal_mistakes_skin    : "contrast" #"default"  "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "개발 연습장"
+title                    : "Vision in Bytes "
 title_separator          : "-"
-subtitle                 : "Development"
+subtitle                 : "deep into technologies, such as machine vision, hardware, software too"
 name                     : &name "Kwanmo Yeon" # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : #https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
